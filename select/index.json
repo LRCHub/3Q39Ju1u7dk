@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Signalize!",
+  "base_artist": "わか・ふうり・すなお・りすこ from STAR☆ANIS",
+  "createdAt": "2025-12-24T07:36:35.210726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Signalize!",
+      "artist": "わか・ふうり・すなお・りすこ from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/01_Signalize!_わか・ふうり・すなお・りすこ_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Signalize",
+      "artist": "野水いおり",
+      "has_synced": true,
+      "path": "select/02_Signalize_野水いおり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Signalize! (TV-size)",
+      "artist": "わか・ふうり・すなお・りすこ from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/03_Signalize!_(TV-size)_わか・ふうり・すなお・りすこ_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Signalize! ～いちご & 美月 Ver.～",
+      "artist": "わか・りすこ from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/04_Signalize!_~いちご_&_美月_Ver.~_わか・りすこ_from_STAR☆ANIS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Signalize (without Iori)",
+      "artist": "野水いおり",
+      "has_synced": false,
+      "path": "select/05_Signalize_(without_Iori)_野水いおり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Signalize!",
+      "artist": "STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_Signalize!_STAR☆ANIS.txt"
+    }
+  ]
+}
